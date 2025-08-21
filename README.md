@@ -2,9 +2,9 @@
 
 ## 1. Descrição do Projeto
 
-O sistema educacional brasileiro, embora rico em informação gerada por avaliações como o ENEM e o IDEB, apresenta tais dados de forma bruta e pouco acessível. Os microdados, disponibilizados por órgãos como o INEP, são um tesouro de informações, porém sua natureza volumosa cria uma barreira significativa para o cidadão comum, gestores educacionais e até mesmo para a imprensa. A tomada de decisão sobre qual escola escolher, onde investir recursos públicos ou como avaliar o desempenho de uma rede de ensino se torna um processo subjetivo e baseado em informações incompletas.
+O sistema educacional brasileiro, embora rico em informação gerada por avaliações como o ENEM e o IDEB, apresenta tais dados de forma bruta e pouco acessível. A natureza densa do conteúdo disponibilizado cria uma barreira significativa para o cidadão comum, gestores educacionais e até mesmo para a imprensa. A tomada de decisão sobre qual escola escolher, onde investir recursos públicos ou como avaliar o desempenho de uma rede de ensino se torna um processo subjetivo e baseado em informações incompletas.
 
-Dito isto, o projeto nasce para atacar esse problema. A ideia é traduzir esses dados brutos para uma forma clara e de fácil entendimento. A proposta inicial do projeto é um dashboard que irá processar e visualizar indicadores educacionais Brasileiros. A plataforma permitirá que qualquer pessoa possa, com poucos cliques, comparar o desempenho de escolas, regiões e estados, transformando dados complexos em conhecimento acessível para toda a comunidade.
+Dito isto, o projeto nasce para atacar esse problema. A ideia é traduzir esses dados brutos para uma forma clara e de fácil entendimento. A proposta inicial do projeto é um dashboard que irá processar e visualizar indicadores educacionais Brasileiros. A plataforma permitirá que qualquer pessoa possa, com poucos cliques, comparar o desempenho de escolas, regiões e estados, transformando dados complexos em conhecimento acessível. Especialmente útil para famílias que buscam matricular seus filhos em instituições de qualidade.
 
 ## 2. Objetivos Iniciais 
 
