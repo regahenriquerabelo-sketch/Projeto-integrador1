@@ -21,8 +21,6 @@ Para a primeira fase do projeto, o foco será validar a solução com um conjunt
 
 * **Líder / Gerente de Projeto:** Henrique Rabelo Rega 
 
-
-
 ## 4. Mapa da Empatia 
 
 <a href='https://postimg.cc/87cPmgzb' target='_blank'><img src='https://i.postimg.cc/3xC47KMz/Mapa-mental-de-metas-moderno-simples-claro-branco-vermelho-e-preto.png' border='0' alt='Mapa-mental-de-metas-moderno-simples-claro-branco-vermelho-e-preto'/>
