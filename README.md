@@ -19,4 +19,4 @@ Para a primeira fase do projeto, o foco será validar a solução com um conjunt
 ## 3. Equipe
 
 
-* **Líder / Gerente de Projeto: Henrique Rabelo Rega 
+* **Líder / Gerente de Projeto:** Henrique Rabelo Rega 
